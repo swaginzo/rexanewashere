@@ -6,10 +6,10 @@
 
 ### 📱 İletişim Bilgilerim
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1328410312449327266)  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rexanewashere)  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/358001735861796866)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swaginzo)  
 [![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31jqirhyc43e5xisaipzjlozzvfa)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rexanewashere)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)  
 
 ---
 
@@ -39,9 +39,9 @@ Tüm projelerimi yukarıda bağlantısı bulunan GitHub profilimde bulabilirsini
 
 ## Statlarım
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rexanewashere&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=swaginzo&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rexanewashere&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swaginzo&layout=compact&theme=dark)
 
 ---
 
